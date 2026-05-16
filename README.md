@@ -1,5 +1,5 @@
 # Chat Haus
-This terminal-based chat application utilizes language features provided by the concurrency support library sub-component (of the C++ standard library) that facilitate the implementation of concurrent programs (running on a single CPU core) by way of multithreaded programming techniques. The Client-Server Model employed by this application was implemented using C-based POSIX functions from a couple of included header files which enable socket programming. 
+* This terminal-based chat application utilizes language features provided by the concurrency support library sub-component (of the C++ standard library) that facilitate the implementation of concurrent programs (running on a single CPU core) by way of multithreaded programming techniques. The Client-Server Model employed by this application was implemented using C-based POSIX functions from a couple of included header files which enable socket programming. 
 
 ## Development Environment:
 * Lenovo T14 Gen 6 (x86_64)
