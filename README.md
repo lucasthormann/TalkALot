@@ -18,7 +18,7 @@ This terminal-based chat application utilizes language features provided by the 
 git clone https://github.com/lucasthormann/cxx-chat.git
 ```
 
-3. Run the following Bourne-Again SHell commands within the terminal in order to preprocess, compile, assemble, and link the files using G++ (a C++ compiler included in the GNU Compiler Collection)
+3. Run the following commands in order to preprocess, compile, assemble, and link the files using G++ (a C++ compiler included in the GNU Compiler Collection)
 ```
 g++ server.cpp -lpthread -o server
 g++ client.cpp -lpthread -o client
