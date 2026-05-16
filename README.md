@@ -8,7 +8,7 @@ This terminal-based chat application utilizes language features provided by the 
 
 
 ## Dependencies:
-* GCC 16.1 or newer in order to use the most up to date version of G++
+* GCC 16.1 or newer (in order to use the most up to date version of G++)
 * Git 2.43.0 or newer
 
 # How To Run
