@@ -12,24 +12,24 @@
 * GCC 16.1 or newer (in order to use the most up to date version of G++)
 * Git 2.43.0 or newer
 
-# How To Run
+# How to Run
 
 1. Clone the repo
 ```
 git clone https://github.com/lucasthormann/cxx-chat.git
 ```
 
-3. Run the following command in order to preprocess, compile, assemble, and link the files using G++ (a C++ compiler included in the GNU Compiler Collection)
+2. Run the following command in order to preprocess, compile, assemble, and link the files using G++ (a C++ compiler included in the GNU Compiler Collection)
 ```
 g++ server.cpp -lpthread -o server && g++ client.cpp -lpthread -o client
 ```
 
-3. To run the server executable use the following instruction
+3. Use the following instruction to run the server executable
 ```
 ./server
 ```
 
-4. Next, run the client executable using the following command
+4. Next, use the following command to run the client executable
 ```
 ./client
 ```
