@@ -12,6 +12,9 @@
 * GCC 16.1 or newer (in order to use the most up to date version of G++)
 * Git 2.43.0 or newer
 
+## Target Environment:
+* Ubuntu 24.04.3 (x86_64)
+
 # How to Run
 
 1. Clone the repo
