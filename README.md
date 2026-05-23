@@ -13,7 +13,7 @@
 * GCC (16.1 or newer)
 
 ## Target Environment:
-* A modern PC running Ubuntu (24.04.3)
+* A modern PC (x86_64) running an Ubuntu (24.04.3) instance
 
 # How to Run
 
